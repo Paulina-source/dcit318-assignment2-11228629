@@ -1,0 +1,15 @@
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment2-11228629\Interfaces\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
